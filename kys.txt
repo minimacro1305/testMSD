@@ -1,5 +1,9 @@
 hi lukas
 hi joachim, wie geht es dir?
+<<<<<<< HEAD
 mir geht's gut. uns selber?
 
 
+=======
+das ist ein test
+>>>>>>> 25e9d3ebbfd15568689e587641b177c36d1a9455

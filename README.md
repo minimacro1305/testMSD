@@ -1,7 +1,10 @@
+- [x]
+- [ ]
+
 # testMSD
 
 testing stuff for uni
 
 
-- [] test
+- [ ] test
 - [x]

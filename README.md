@@ -18,7 +18,7 @@ jajajaja`
 
 ## Bilder
 maven site picture:
-![alt text](https://github.com/minimacro1305/19-Abgabe04-Pollanz-Ozim/blob/master/pics/mavenSite.png)
+!(https://github.com/minimacro1305/19-Abgabe04-Pollanz-Ozim/blob/master/pics/mavenSite.png)
 
 JavaDocs picture:
 ![JavaDoc](https://github.com/minimacro1305/19-Abgabe04-Pollanz-Ozim/blob/master/pics/javaDocs.png)
